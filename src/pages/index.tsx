@@ -1,10 +1,10 @@
 import Head from 'next/head'
 import styles from '../../styles/Home.module.css'
 
-type Props = { 
+type Props = {
   title: string
 }
-
+const a = 'asdad'
 export default function Home({ title = "React Avançado!" }: Props ) {
   return (
     <div className={styles.container}>
