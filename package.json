@@ -14,7 +14,7 @@
     "generate": "yarn plop --plopfile ./generators/plopfile.js"
   },
   "dependencies": {
-    "@storybook/react": "^6.1.11",
+    "@storybook/react": "^6.2.7",
     "@testing-library/react": "^11.2.3",
     "global": "^4.4.0",
     "next": "10.0.5",
